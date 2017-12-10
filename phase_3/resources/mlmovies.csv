@@ -1,0 +1,52 @@
+movieid,moviename,genres
+1,"Behind Enemy Lines (2001)",Action
+2,"I Spy (2002)",Action
+3,"Pearl Harbor (2001)",Action
+4,"Daredevil (2003)",Action
+5,"Training Day (2001)",Action
+6,"Deja Vu (2007)",Action
+7,"Rush hour (2001)",Action
+8,"The Tuxedo  (2001)",Action
+9,"Tomb Raider (2001)",Action
+10,"Taking Lives (2004)",Action
+11,"2 Fast 2 Furious (2001)",Action
+12,"Fast and Furious (2001)",Action
+13,"Xxx (2002)",Action
+14,"Unbreakable (2001)",Action
+15,"The Sixth Sense (2001)",Action
+16,"The Jungle Book (2001)",Action
+17,"Enemy at Gates (2001)",War
+18,"Conspiracy (2001)",War
+19,"Serendiptiy (2001)",Romance
+20,"Vanilla Sky (2001)",Romance
+21,"Startup.com (2001)",Documentary
+22,"Revolution os (2001)",Documentary
+23,"A beautiful mind (2001)",Biography
+24,"Ali (2001)",Biography
+25,"Shaolin Soccer (2001)",Sport
+26,"Lagaan (2001)",Sport
+27,"From hell (2001)",Thriller
+28,"Hannibal (2001)",Thriller|Crime
+29,"Mullholand Drive (2001)",Crime|Mystery
+30,"Jeepers Creepers (2001)",Mystery|Horror
+31,"The Devils Backbone (2001)",Horror|Drama
+32,"The Others (2001)",Drama
+33,Shrek(2001),Family
+34,"Monsters, Inc (2001)",Family
+35,"Spy Kids (2001)",Family
+36,"Cats and Dogs (2001)",Family
+37,"The Princess Diaries (2001)",Family
+38,"Ice Age (2002)",Family
+39,"Scooby-Doo (2002)",Family
+40,"Treasure Planet (2002)",Family
+41,"Home Alone 4 (2001)",Family
+42,"Snow Dogs (2001)",Family
+43,"The County Bears (2002)",Family
+44,"Stuart Little 2 (2002)",Family
+45,"The Santa Clause 2 (2002)",Family
+46,"Mary Christmas (2001)",Family
+47,"Balto: Wolf quest (2001)",Family
+48,"Tarzan and Jane (2001)",Family
+49,"Jurassic Park III (2001)",Adventure|Sci-Fi
+50,"Charlie's Angels: Full Throttle (2003)",Adventure
+51,"G.I. Joe: Spy Troops the Movie (2001)",Animation
