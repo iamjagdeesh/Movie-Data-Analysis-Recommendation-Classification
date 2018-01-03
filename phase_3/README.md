@@ -1,9 +1,9 @@
 # Vector Space Modeling of MovieLens & IMDB data - Phase 3
 
 Hardware requirements:
-Operating System: Windows 10 Home
-Processor: Intel Core i5-6200U CPU @ 2.30Ghz 2.40Ghz
-System type: 64-bit operating system, X64 based processor
+- Operating System: Windows 10 Home
+- Processor: Intel Core i5-6200U CPU @ 2.30Ghz 2.40Ghz
+- System type: 64-bit operating system, X64 based processor
 
 Software requirements:
 1. Python 3.6.2 :: Anaconda, Inc.
