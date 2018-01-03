@@ -24,29 +24,29 @@ Execution Steps:
 - Example: python phase_3_task_4.py --help
 
 Task 1:
-Command line interface - phase_3_task_1.py
-Usage: python phase_3_task_1.py user_id model
-Example: python phase_3_task_1.py 3 SVD
+- Command line interface - phase_3_task_1.py
+- Usage: python phase_3_task_1.py user_id model
+- Example: python phase_3_task_1.py 3 SVD
 
 Task 2:
-Command line interface - phase_3_task_2.py
-Usage: python phase_3_task_2.py
-Example: python phase_3_task_2.py
+- Command line interface - phase_3_task_2.py
+- Usage: python phase_3_task_2.py
+- Example: python phase_3_task_2.py
 
 Task 3:
-Command line interface - phase_3_task_3.py
-Usage: python phase_3_task_3.py <num_layers> <num_hashs_per_layer>
-Example: python phase_3_task_3.py 2 3
+- Command line interface - phase_3_task_3.py
+- Usage: python phase_3_task_3.py <num_layers> <num_hashs_per_layer>
+- Example: python phase_3_task_3.py 2 3
 
 Task 4:
-Command line interface - phase_3_task_4.py
-Usage: phase_3_task_4.py
-Example: python phase_3_task_4.py
+- Command line interface - phase_3_task_4.py
+- Usage: phase_3_task_4.py
+- Example: python phase_3_task_4.py
 
 Task 5:
-Command line interface - phase_3_task_5.py
-Usage: phase_3_task_5.py <model>
-Example: python phase_3_task_5.py RNN
+- Command line interface - phase_3_task_5.py
+- Usage: phase_3_task_5.py <model>
+- Example: python phase_3_task_5.py RNN
 
 
 Troubleshooting:
